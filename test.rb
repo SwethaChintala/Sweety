@@ -4,7 +4,7 @@ $a=10
 $b=4
 while $a>$b
 	puts "#$a"
-	$a-=1
+	a++
 end
 $c=50
 $d=40
