@@ -5,12 +5,12 @@ $y=1
 begin
 	puts "Welcome"
 	$x+=1
-end while $x==$y
+
+while $x==$y
 $y+=1
 while $x==$y do
 	puts "Aclara"
 	$x+=1
-end
 loop do
 	puts "Hello"
 	$x+=5
