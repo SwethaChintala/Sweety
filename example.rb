@@ -2,7 +2,7 @@ a=10
 b=4
 while a>b
 	a++
-  puts a
+  puts 
 end
 c=50
 d=40
