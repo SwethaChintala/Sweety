@@ -1,0 +1,13 @@
+:Controls:
+    :mail:
+        :id: 'identifierId'
+        :control: "Textbox"
+    :nextp:
+        :id: 'identifierNext'
+        :control: "Button"
+    :password:
+        :type: 'password'
+        :control: "Textbox"
+    :nextg:
+        :id: 'passwordNext'
+        :control: "Button"
