@@ -9,9 +9,9 @@ class Aclara
 		puts "project name is #@project"
 		puts "team size is #@@place"
 		puts "company name is #$companyname"
-	enda
+	end
 end
 det1 = Aclara.new("vega","Aclara_one")
 det2 = Aclara.new("avengers","Aclara_one")
-det1.disply()
+det1.display()
 det2.display()
